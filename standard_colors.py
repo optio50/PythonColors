@@ -87,5 +87,5 @@ def stand_colors():
     print(colors.strikethrough, colors.fg.yellow, colors.reverse, f"{'Strikethrough & Yellow'.center(30)}", colors.reset, sep="")
     print(colors.fg.light_yellow, colors.reverse, f"{'Light Yellow'.center(30)}", colors.reset, sep="")
 
-# Color Demonstration
+# Color Demonstration. Uncomment below to run demo
 #stand_colors()
