@@ -88,4 +88,4 @@ def stand_colors():
     print(colors.fg.light_yellow, colors.reverse, f"{'Light Yellow'.center(30)}", colors.reset, sep="")
 
 # Color Demonstration
-stand_colors()
+#stand_colors()
